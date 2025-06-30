@@ -12,11 +12,17 @@ This project compares a **Fully Connected Neural Network (FCNN)** and a **Convol
 - Evaluation and comparison of both models
 
 ## 📁 Files
-- `CS455_Ass07_py.ipynb`: Main notebook with FCNN and CNN implementations
-- `writeup.pdf`: Summary of methodology, performance graphs, and results (to be added)
+- `CS455_Ass07_py.ipynb`: Main notebook with FCNN and CNN implementations.
+- `~$signment 07 Report.docx`: Summary of methodology, performance graphs, and results.
+  
 
 ## 📊 Results
-Performance is evaluated by comparing accuracy and loss curves for each model across training epochs. CNN typically outperforms FCNN in both accuracy and generalization.
+- ✅ Final Test Accuracy of FCNN: **88.65%**
+- ✅ Final Test Accuracy of CNN: **91.05%**
+
+Below is a comparison of training/validation performance:
+
+![Model Comparison](fcnn_vs_cnn_results.png)
 
 ## 📌 Usage
 Run the notebook in Google Colab or any local Jupyter environment with TensorFlow installed.
