@@ -26,3 +26,8 @@ Below is a comparison of training/validation performance:
 
 ## 📌 Usage
 Run the notebook in Google Colab or any local Jupyter environment with TensorFlow installed.
+
+
+```
+© 2025 Lalith Aditya Chunduri. All rights reserved.
+```
